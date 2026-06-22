@@ -1,3 +1,5 @@
+> ⚠️ **Note:** *This repository contains academic assignments and experimental scripts completed during my coursework to practice foundational concepts. It is kept public for historical reference.*
+
 # Image-Captioning-Using-KNN
 
 This project implements an algorithm for image captioning using k-Nearest Neighbors (kNN), based on the paper "A Distributed Representation Based Query Expansion Approach for Image Captioning". The MS COCO 2014 validation set is used as the dataset, and Faiss library is utilized for efficient nearest neighbor computation.
